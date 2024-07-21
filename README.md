@@ -5,3 +5,12 @@
 - Python Modules
 - Linear Regression
 - Logistic Regression
+
+## Week 2
+- Classifiers
+- Neural Net
+- YOLOv8
+
+## Week_3
+- CNNs
+- OpenCV
